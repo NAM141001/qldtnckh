@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLDTNCKHModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="detai">
+    <Key>
+      <PropertyRef Name="madetai" />
+    </Key>
+    <Property Name="madetai" Type="char" MaxLength="6" Nullable="false" />
+    <Property Name="tendetai" Type="nvarchar" MaxLength="40" />
+    <Property Name="thoigian" Type="datetime" />
+    <Property Name="tenchunhiem" Type="nvarchar" MaxLength="40" />
+    <Property Name="tenthanhvienchinh" Type="nvarchar" MaxLength="40" />
+    <Property Name="tenthanhvienphu" Type="nvarchar" MaxLength="40" />
+    <Property Name="tiendo" Type="nvarchar" MaxLength="40" />
+    <Property Name="quyetdinhkiemduyet" Type="nvarchar" MaxLength="40" />
+    <Property Name="quyetdinhthanhlaphoidongnghiemthu" Type="nvarchar" MaxLength="40" />
+    <Property Name="thanhvienhoidongnghiemthu" Type="nvarchar" MaxLength="40" />
+    <Property Name="ngaynghiemthu" Type="datetime" />
+    <Property Name="ketquanghiemthu" Type="nvarchar" MaxLength="40" />
+    <Property Name="ungdungcuadetai" Type="nvarchar" MaxLength="40" />
+    <Property Name="chiphi" Type="money" />
+    <Property Name="capdetai" Type="nvarchar" MaxLength="40" />
+  </EntityType>
+  <EntityContainer Name="QLDTNCKHModelStoreContainer">
+    <EntitySet Name="detai" EntityType="Self.detai" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLDTNCKHModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="detai">
+    <Key>
+      <PropertyRef Name="madetai" />
+    </Key>
+    <Property Name="madetai" Type="String" MaxLength="6" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="tendetai" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="thoigian" Type="DateTime" Precision="3" />
+    <Property Name="tenchunhiem" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="tenthanhvienchinh" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="tenthanhvienphu" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="tiendo" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="quyetdinhkiemduyet" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="quyetdinhthanhlaphoidongnghiemthu" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="thanhvienhoidongnghiemthu" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="ngaynghiemthu" Type="DateTime" Precision="3" />
+    <Property Name="ketquanghiemthu" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="ungdungcuadetai" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="chiphi" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="capdetai" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="QLDTNCKHEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="detais" EntityType="Self.detai" />
+  </EntityContainer>
+</Schema>

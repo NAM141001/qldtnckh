@@ -1,0 +1,350 @@
+
+create database QLDTNCKH
+go
+use  QLDTNCKH
+go
+CREATE FUNCTION AUTO_ID()
+RETURNS CHAR(5)
+BEGIN
+	DECLARE @ID CHAR(5)
+	IF (SELECT COUNT(madetai) FROM detai) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(madetai, 3)) FROM detai
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'DT00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9  THEN 'DT0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			
+		END
+	RETURN @ID
+END
+GO
+CREATE FUNCTION AUTO_IDTV()
+RETURNS CHAR(5)
+BEGIN
+	DECLARE @ID CHAR(5)
+	IF (SELECT COUNT(mathanhvien) FROM thanhvienthamgiadetai) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(mathanhvien, 3)) FROM thanhvienthamgiadetai
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'TV00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 THEN 'TV0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+GO
+
+create table thanhvienthamgiadetai(
+mathanhvien char(6) PRIMARY KEY CONSTRAINT IDTV DEFAULT DBO.AUTO_IDTV(),
+tenthanhvien nvarchar(40),
+ngaysinh datetime,
+gioitinh nvarchar(10),
+hocvi nvarchar(20),
+hocham nvarchar(20),
+trinhdotienganh nvarchar(20),
+chuyennganh nvarchar(20),
+chuyenmon nvarchar(20),
+diachi nvarchar(40),
+email nvarchar(40),
+sodienthoai nvarchar(40),
+dinhmuc int,
+sogiothuchien int,
+hieuso int
+)
+GO
+CREATE TRIGGER auto_sum
+   ON  thanhvienthamgiadetai
+   AFTER INSERT,UPDATE
+AS 
+BEGIN
+	declare @dinhmuc int,@sogiothuchien int, @mathanhvien char(6)
+	SELECT @dinhmuc = dinhmuc from inserted
+	SELECT @sogiothuchien =sogiothuchien from inserted
+	SELECT @mathanhvien =mathanhvien from inserted
+    UPDATE thanhvienthamgiadetai SET hieuso= @sogiothuchien-@dinhmuc where mathanhvien= @mathanhvien
+END
+GO
+create table detai(
+madetai char(6) PRIMARY KEY CONSTRAINT IDKH DEFAULT DBO.AUTO_ID(),
+tendetai nvarchar(40),
+thoigian datetime,
+quyetdinhgiao nvarchar(40),
+tiendo nvarchar(40),
+quyetdinhkiemduyet nvarchar(40),
+quyetdinhthanhlaphoidongnghiemthu nvarchar(40),
+ngaynghiemthu datetime,
+ketquanghiemthu nvarchar(40),
+ungdungcuadetai nvarchar(40),
+chiphi money ,
+linhvuc nvarchar(40),
+capdetai nvarchar(40),
+dinhhuongmuctieu nvarchar(MAX),
+ketquadukien nvarchar(MAX)
+)
+GO
+alter table detai 
+add trangthai nvarchar(40)
+
+Go
+
+create table cttv(
+madetai char(6),
+mathanhvien char(6),
+chucvu nvarchar(20),
+diem int
+PRIMARY KEY(madetai,mathanhvien)
+ FOREIGN KEY (madetai)
+  REFERENCES detai(madetai),
+   FOREIGN KEY (mathanhvien)
+  REFERENCES thanhvienthamgiadetai(mathanhvien)
+
+)
+GO
+CREATE FUNCTION AUTO_IDBC()
+RETURNS CHAR(5)
+BEGIN
+	DECLARE @ID CHAR(5)
+	IF (SELECT COUNT(mabaocao) FROM baocao) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(mabaocao, 3)) FROM baocao
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'BC00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 THEN 'BC0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+GO
+create table baocao(
+mabaocao char(6) PRIMARY KEY CONSTRAINT IDBC DEFAULT DBO.AUTO_IDBC(),
+ten_file nvarchar(40),
+duongdan nvarchar(40),
+mota nvarchar(40),
+madetai char(6),
+FOREIGN KEY (madetai)
+  REFERENCES detai(madetai)
+)
+GO
+CREATE FUNCTION AUTO_IDTK()
+RETURNS CHAR(6)
+BEGIN
+	DECLARE @ID CHAR(6)
+	IF (SELECT COUNT(mataikhoan) FROM taikhoan) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(mataikhoan, 3)) FROM taikhoan
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'TK00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9  THEN 'TK0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			
+		END
+	RETURN @ID
+END
+GO
+Create table taikhoan(
+mataikhoan char(6) PRIMARY KEY CONSTRAINT IDTK DEFAULT DBO.AUTO_IDTK(),
+username nvarchar(40),
+pass nvarchar(40),
+phanquyen nvarchar(40)
+)
+
+GO
+CREATE FUNCTION AUTO_IDLS()
+RETURNS CHAR(5)
+BEGIN
+	DECLARE @ID CHAR(5)
+	IF (SELECT COUNT(malichsu) FROM lichsu) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(malichsu, 3)) FROM lichsu
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'LS00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 THEN 'LS0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+GO
+Create table lichsu(
+malichsu char(6) PRIMARY KEY CONSTRAINT IDLS DEFAULT DBO.AUTO_IDLS(),
+thoigiandangnhap datetime,
+thoigiandangxuat datetime,
+mataikhoan char(6),
+  FOREIGN KEY (mataikhoan)
+  REFERENCES taikhoan(mataikhoan)
+)
+GO
+insert into taikhoan(username,pass,phanquyen) values('administrator','1',N'Trưởng phòng');
+insert into taikhoan(username,pass,phanquyen) values('nv','1',N'Nhân sự');
+GO
+create table sinhvien(
+masinhvien nvarchar(10) PRIMARY KEY,
+tensinhvien nvarchar(40),
+ngaysinh datetime,
+gioitinh nvarchar(6),
+diachi nvarchar(40),
+sodienthoai nvarchar(40),
+lop nvarchar(40),
+khoa nvarchar(40),
+truong nvarchar(40)
+)
+GO
+CREATE FUNCTION AUTO_IDSTSV()
+RETURNS CHAR(6)
+BEGIN
+	DECLARE @ID CHAR(6)
+	IF (SELECT COUNT(madetai_sinhvien) FROM detaicuasinhvien ) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(madetai_sinhvien, 3)) FROM detaicuasinhvien
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'DS00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 THEN 'DS0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+GO
+create table detaicuasinhvien(
+madetai_sinhvien char(6) PRIMARY KEY CONSTRAINT IDSTSV DEFAULT DBO.AUTO_IDSTSV(),
+tendetai nvarchar(40),
+thoigian datetime,
+tiendo nvarchar(40),
+quyetdinhthanhlaphoidong nvarchar(40),
+ngaynghiemthu datetime,
+ketquanghiemthu nvarchar(40),
+ungdungcuadetai nvarchar(40),
+chiphi money ,
+capdetai nvarchar(40),
+)
+GO
+
+create table cttv_sv(
+masinhvien nvarchar(10),
+madetai_sinhvien char(6),
+chucvu nvarchar(40),
+PRIMARY KEY(masinhvien,madetai_sinhvien),
+ FOREIGN KEY (masinhvien)
+  REFERENCES sinhvien(masinhvien),
+   FOREIGN KEY (madetai_sinhvien)
+  REFERENCES detaicuasinhvien(madetai_sinhvien),
+)
+GO
+create table cttv_hd(
+mathanhvien char(6),
+madetai_sinhvien char(6),
+chucvu nvarchar(40),
+diem int ,
+PRIMARY KEY(mathanhvien,madetai_sinhvien),
+ FOREIGN KEY (mathanhvien)
+  REFERENCES thanhvienthamgiadetai(mathanhvien),
+   FOREIGN KEY (madetai_sinhvien)
+  REFERENCES detaicuasinhvien(madetai_sinhvien),
+)
+GO
+CREATE FUNCTION AUTO_IDHT()
+RETURNS CHAR(5)
+BEGIN
+	DECLARE @ID CHAR(5)
+	IF (SELECT COUNT(mahoithao) FROM hoithao ) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(mahoithao, 3)) FROM hoithao
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'HT00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 THEN 'HT0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+GO
+create table hoithao(
+mahoithao char(6) PRIMARY KEY CONSTRAINT IDHT DEFAULT DBO.AUTO_IDHT(),
+tenhoithao nvarchar(40),
+ngaytochuc nvarchar(40),
+soluongnguoithamgia int,
+soluongthamluan int,
+caphoithao nvarchar(40)
+)
+GO
+CREATE FUNCTION AUTO_I()
+RETURNS CHAR(5)
+BEGIN
+	DECLARE @ID CHAR(5)
+	IF (SELECT COUNT(mabaibao) FROM baibao ) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(mabaibao, 3)) FROM baibao
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'HT00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 and @ID < 99  THEN 'HT0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID > 99 THEN 'HT' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+GO
+create table baibao(
+mabaibao char(6) PRIMARY KEY CONSTRAINT IDT DEFAULT DBO.AUTO_I(),
+tenbaibao nvarchar(40),
+ngaythangxuatban datetime,
+giayphep nvarchar(40),
+diemso int,
+loaibaibao nvarchar(40)
+)
+GO
+create table cttv_bb(
+mathanhvien char(6),
+mabaibao char(6),
+chucvu nvarchar(40),
+PRIMARY KEY(mathanhvien,mabaibao),
+ FOREIGN KEY (mathanhvien)
+  REFERENCES thanhvienthamgiadetai(mathanhvien),
+   FOREIGN KEY (mabaibao)
+  REFERENCES baibao(mabaibao),
+)
+GO
+
+CREATE FUNCTION AUTO_I1()
+RETURNS CHAR(6)
+BEGIN
+	DECLARE @ID CHAR(6)
+	IF (SELECT COUNT(maduan) FROM sinhvienkhoinghiep ) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(maduan, 4)) FROM sinhvienkhoinghiep
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'HT000' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 and @ID < 99  THEN 'HT00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 99 and @ID < 999  THEN 'HT0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 999 and @ID < 9999  THEN 'HT' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END 
+	RETURN @ID
+END
+GO
+create table sinhvienkhoinghiep(
+maduan char(6) PRIMARY KEY CONSTRAINT IDT12 DEFAULT DBO.AUTO_I1(), 
+tenduan nvarchar(40),
+thoigian datetime,
+giaithuong nvarchar(40)
+)
+GO
+create table cttv_svkn(
+maduan char(6),
+masinhvien nvarchar(10),
+chucvu nvarchar(40),
+PRIMARY KEY(maduan,masinhvien),
+ FOREIGN KEY (maduan)
+  REFERENCES sinhvienkhoinghiep(maduan),
+   FOREIGN KEY (masinhvien)
+  REFERENCES sinhvien(masinhvien)
+)
+GO
+
+create table hopdong(
+mahopdong INT IDENTITY(1,1),
+ CharID AS 'HD' + RIGHT('000' + CAST(mahopdong AS VARCHAR(3)), 3) PERSISTED,
+ten_file nvarchar(40),
+duongdan nvarchar(40),
+mota nvarchar(40),
+madetai char(6),
+FOREIGN KEY (madetai)
+  REFERENCES detai(madetai)
+) 

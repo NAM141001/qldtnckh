@@ -1,0 +1,2 @@
+select dt.tendetai,dt.madetai,ct.chucvu,tv.tenthanhvien from detai dt,thanhvienthamgiadetai tv,cttv ct 
+where dt.madetai =ct.madetai and tv.mathanhvien =ct.mathanhvien and ct.chucvu in (N'Chủ nhiệm',N'Thành viên chính',N'Thành viên phụ')

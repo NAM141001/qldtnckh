@@ -1,0 +1,551 @@
+D:\qldtnckh\qldtnckh\bin\Debug\qldtnckh.exe.config
+D:\qldtnckh\qldtnckh\bin\Debug\qldtnckh.exe
+D:\qldtnckh\qldtnckh\bin\Debug\qldtnckh.pdb
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Properties.Resources.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.RibbonForm1.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.GenerateResource.cache
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.exe.licenses
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.CoreCompileInputs.cache
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.CopyComplete
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.exe
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.pdb
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapnhanuoc.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapbo.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapbomon.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapkhoa.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicaptinh.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicaptruong.resources
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\EntityFramework.dll
+D:\qldtnckh\qldtnckh\bin\Debug\EntityFramework.SqlServer.dll
+D:\qldtnckh\qldtnckh\bin\Debug\EntityFramework.xml
+D:\qldtnckh\qldtnckh\bin\Debug\EntityFramework.SqlServer.xml
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csprojAssemblyReference.cache
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Images.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.toanbodetai.resources
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.ExpressApp.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Persistent.Base.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.ExpressApp.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Persistent.Base.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.ExpressApp.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.ExpressApp.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.ExpressApp.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.ExpressApp.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.nckh.nckhgv.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.nckh.nckhsv.resources
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.report.XtraReport2.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.baocao.XtraForm1.resources
+D:\qldtnckh\qldtnckh\bin\Debug\EPPlus.dll
+D:\qldtnckh\qldtnckh\bin\Debug\EPPlus.Interfaces.dll
+D:\qldtnckh\qldtnckh\bin\Debug\EPPlus.System.Drawing.dll
+D:\qldtnckh\qldtnckh\bin\Debug\EPPlus.xml
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.baocao.giaytokemtheo.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.Login.resources
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+D:\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.thongkevaluutru.Thongke.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.hoithaocaptruong.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.lichsu.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcaptinh.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Tapsan.tapsantbu.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\qldtnckh.exe.config
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\qldtnckh.exe
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\qldtnckh.pdb
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.ExpressApp.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Persistent.Base.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EntityFramework.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EPPlus.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.ExpressApp.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Persistent.Base.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EntityFramework.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\EPPlus.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.ExpressApp.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.ExpressApp.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.ExpressApp.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.ExpressApp.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Persistent.Base.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Persistent.Base.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Persistent.Base.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Persistent.Base.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csprojAssemblyReference.cache
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.baocao.giaytokemtheo.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.baocao.XtraForm1.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.lichsu.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.Login.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapbo.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapbomon.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapkhoa.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapnhanuoc.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicaptinh.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicaptruong.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.toanbodetai.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.frmLogin.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.hoithaocaptruong.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcaptinh.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.nckh.nckhgv.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.nckh.nckhsv.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Properties.Resources.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.report.XtraReport2.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.RibbonForm1.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Tapsan.tapsantbu.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.thongkevaluutru.Thongke.resources
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.GenerateResource.cache
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.exe.licenses
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.CoreCompileInputs.cache
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.CopyComplete
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.exe
+C:\Users\lehoa\OneDrive\Máy tính\qldtnckh\qldtnckh\obj\Debug\qldtnckh.pdb
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicuasinhvien.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.taikhoan.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.taikhoannguoidung.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicaptruong_b.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Tapsan.baibaokh.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcapbomon.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcapkhoa.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcapqg.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Tapsan.baibaokhngoainuoc.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.report.phieudanhgia.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Hoithisangtao.SVkhoinghiep.resources
+D:\qldtnckh\qldtnckh\obj\Debug\qldtnckh.thongkevaluutru.Luutru.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\qldtnckh.exe.config
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\qldtnckh.exe
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\qldtnckh.pdb
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EntityFramework.dll
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EntityFramework.SqlServer.dll
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EPPlus.dll
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EPPlus.Interfaces.dll
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EPPlus.System.Drawing.dll
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EntityFramework.xml
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EntityFramework.SqlServer.xml
+D:\1.1.1.1\qldtnckh\qldtnckh\bin\Debug\EPPlus.xml
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csprojAssemblyReference.cache
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.baocao.giaytokemtheo.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.baocao.XtraForm1.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.lichsu.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.Login.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.taikhoan.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.dangnhap.taikhoannguoidung.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapbo.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapbomon.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapkhoa.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicapnhanuoc.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicaptinh.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicaptruong_b.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.detaicuasinhvien.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Detai.toanbodetai.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.hoithaocaptruong.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcapbomon.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcapkhoa.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcapqg.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.hoithaocapqg.htcaptinh.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Hoithisangtao.SVkhoinghiep.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.nckh.nckhgv.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.nckh.nckhsv.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Properties.Resources.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.report.phieudanhgia.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.report.XtraReport2.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.RibbonForm1.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Tapsan.baibaokh.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Tapsan.baibaokhngoainuoc.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Tapsan.tapsantbu.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.thongkevaluutru.Luutru.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.thongkevaluutru.Thongke.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.GenerateResource.cache
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.exe.licenses
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.CoreCompileInputs.cache
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.csproj.CopyComplete
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.exe
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.pdb
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.report.baocaodetai.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.quanlygionghiencuu.quanlygionghiencuu.resources
+D:\1.1.1.1\qldtnckh\qldtnckh\obj\Debug\qldtnckh.Hoithisangtao.quanlynckhcaptinh.resources

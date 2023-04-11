@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLDTNCKHModelStoreContainer" CdmEntityContainer="QLDTNCKHEntities">
+    <EntitySetMapping Name="detais">
+      <EntityTypeMapping TypeName="QLDTNCKHModel.detai">
+        <MappingFragment StoreEntitySet="detai">
+          <ScalarProperty Name="madetai" ColumnName="madetai" />
+          <ScalarProperty Name="tendetai" ColumnName="tendetai" />
+          <ScalarProperty Name="thoigian" ColumnName="thoigian" />
+          <ScalarProperty Name="tenchunhiem" ColumnName="tenchunhiem" />
+          <ScalarProperty Name="tenthanhvienchinh" ColumnName="tenthanhvienchinh" />
+          <ScalarProperty Name="tenthanhvienphu" ColumnName="tenthanhvienphu" />
+          <ScalarProperty Name="tiendo" ColumnName="tiendo" />
+          <ScalarProperty Name="quyetdinhkiemduyet" ColumnName="quyetdinhkiemduyet" />
+          <ScalarProperty Name="quyetdinhthanhlaphoidongnghiemthu" ColumnName="quyetdinhthanhlaphoidongnghiemthu" />
+          <ScalarProperty Name="thanhvienhoidongnghiemthu" ColumnName="thanhvienhoidongnghiemthu" />
+          <ScalarProperty Name="ngaynghiemthu" ColumnName="ngaynghiemthu" />
+          <ScalarProperty Name="ketquanghiemthu" ColumnName="ketquanghiemthu" />
+          <ScalarProperty Name="ungdungcuadetai" ColumnName="ungdungcuadetai" />
+          <ScalarProperty Name="chiphi" ColumnName="chiphi" />
+          <ScalarProperty Name="capdetai" ColumnName="capdetai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
